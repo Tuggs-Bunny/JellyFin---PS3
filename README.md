@@ -127,4 +127,4 @@ If the app crashes, check `/dev_hdd0/tmp/crash_log.txt` on your PS3's HDD. The l
 
 ## License
 
-No license specified. All rights reserved by the author unless stated otherwise.
+MIT License — see [LICENSE](LICENSE) for details.
