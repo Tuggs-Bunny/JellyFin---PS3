@@ -78,7 +78,7 @@ Your server address, token, and user ID are saved automatically after login.
 | D-pad | Navigate menus |
 | Cross (X) | Select / Confirm |
 | Circle (O) | Back / Cancel |
-| Start | — |
+| Start | Exit player |
 | Select | — |
 
 ---
